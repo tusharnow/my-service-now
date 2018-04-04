@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Delete Me" max_length="40" name="x_192575_needit_delete_me" type="collection"/>
+</database>
